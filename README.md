@@ -1,9 +1,9 @@
-# **Twitter Post Blocker**
+# **Chrome-Twitter-Block-Extension**
 
 ![Icon](icon512.png)
 
 ## **Overview**
-Twitter Post Blocker is a Chrome extension that helps you manage your Twitter feed by blocking posts containing specific keywords. You can:
+Chrome-Twitter-Block-Extension is a Chrome extension that helps you manage your Twitter feed by blocking posts containing specific keywords. You can:
 - Create and toggle word groups to block tweets.
 - Easily block, mute, or mark posts as "Not Interested" using action buttons.
 - Keep your feed clean and distraction-free!
