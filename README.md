@@ -44,7 +44,7 @@ Twitter Post Blocker is a Chrome extension that helps you manage your Twitter fe
 The popup displays the number of tweets blocked so far for your convenience.
 
 ### **Buttons**
-![Buttons](assets/button-icons.png)
+![Buttons](button-icons.png)
 
 ### **Blocking Tweets in Action**
 ![Blocking Tweets](assets/post-blocked.png)
