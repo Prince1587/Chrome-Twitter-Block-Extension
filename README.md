@@ -32,7 +32,7 @@ Chrome-Twitter-Block-Extension is a Chrome extension that helps you manage your 
 ## **📁 Project Structure**
 
 Chrome-Twitter-Block-Extension/
-
+│
 ├── assets/               # Images and icons
 ├── content.js            # Core script to block tweets
 ├── popup.html            # Popup UI
@@ -40,6 +40,7 @@ Chrome-Twitter-Block-Extension/
 ├── manifest.json         # Extension configuration
 ├── icon16.png, etc.      # Various icon sizes
 └── README.md             # You're reading it!
+
 
 
 ## **How to Use**
