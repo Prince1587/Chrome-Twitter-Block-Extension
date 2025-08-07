@@ -29,10 +29,10 @@ Chrome-Twitter-Block-Extension is a Chrome extension that helps you manage your 
 4. Click "Load unpacked" and select the folder where the repository is located.
 5. The extension will appear in your toolbar.
 
-📁 Project Structure
+## **📁 Project Structure**
 
 Chrome-Twitter-Block-Extension/
-│
+
 ├── assets/               # Images and icons
 ├── content.js            # Core script to block tweets
 ├── popup.html            # Popup UI
