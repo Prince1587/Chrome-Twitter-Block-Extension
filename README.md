@@ -23,7 +23,7 @@ Chrome-Twitter-Block-Extension is a Chrome extension that helps you manage your 
 ### **Load the Extension Locally**
 1. Download or clone this repository:
    ```bash
-   git clone https://github.com/adiwish/Twitter-Post-Blocker.git
+   git clone https://github.com/Prince1587/Chrome-Twitter-Block-Extension.git
 2. Open Chrome and go to chrome://extensions/.
 3. Enable Developer mode (toggle in the top-right corner).
 4. Click "Load unpacked" and select the folder where the repository is located.
