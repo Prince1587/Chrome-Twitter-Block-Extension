@@ -47,7 +47,7 @@ The popup displays the number of tweets blocked so far for your convenience.
 ![Buttons](button-icons.png)
 
 ### **Blocking Tweets in Action**
-![Blocking Tweets](assets/post-blocked.png)
+![Blocking Tweets](post-blocked.png)
 
 
 ### **Contributing**
